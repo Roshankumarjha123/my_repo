@@ -1,8 +1,2 @@
 web development html 
-<<<<<<< HEAD
-
-void newbranch
-{
-//
-}
-
+void newbranch{}
